@@ -1,0 +1,1 @@
+A performance monitor is a type of program, usually included into an operating system, that evaluates and shows information on computer resources and devices. It can include information on processors, drives, networks, and memory. This helps computer users identify the source of, and resolve, problems. 
